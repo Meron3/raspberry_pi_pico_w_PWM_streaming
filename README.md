@@ -3,6 +3,7 @@
 Raspberry Pi Pico W を使用して、**「人が近づいたことを検知し、Webサーバー上のWAVファイルをストリーミング再生する」** デバイスの実装コードです。
 
 詳細は、リンク先の記事にて説明しています。
+https://zenn.dev/meron3/articles/fb4ca2c513ddb1
 
 ## 特徴
 
